@@ -1,24 +1,23 @@
-<!-- Template:
+Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm AJ McDaniel. I'm an Undergraduate Researcher at University of Illinois at Urbana-Champaign. I work on data and AI/ML projects, with experience in software development, Salesforce development, and STEM education.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: San Diego, CA
+- 🎓 Education: University of California Santa Cruz (Computer Science)
+- 📅 Hacking Since: 2022
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🤖 [Clairity](https://github.com/AJMCS/clairity) — UCLA Responsible AI Hackathon 2025 Project (HTML/Python)
+- 📚 [CS113](https://github.com/AJMCS/CS113) — Data Structures and Algorithms (Java)
+- 💬 [Vera](https://github.com/AJMCS/Vera) — Sentient Chat Hacks 2025 Project (Python)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, Java, C++, Apex, JavaScript, Assembly, Kotlin
+- 🔭 Focus: AI/ML, Data Engineering, Software Development, Salesforce Development
+- ❤️ Interests: Hackathons, Responsible AI, Web Applications, Data Structures
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
